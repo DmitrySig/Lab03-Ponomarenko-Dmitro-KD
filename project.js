@@ -1,7 +1,7 @@
 const project = {
   title: "Shared Project",
   status: "draft",
-  theme: "light",
+  theme: "cupcake",
   language: "uk",
   itemsPerPage: 10,
   welcomeMessage: "Welcome",
